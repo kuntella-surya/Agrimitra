@@ -1,0 +1,34 @@
+[33m3819597[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m first version
+[33mefd2e28[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Fixed the chatbot overlap for mobile
+[33m6bc0ea2[m imporved the complete ui
+[33me4fb129[m fixed a bug
+[33m27d49c8[m added footer
+[33m5c85295[m improved responsiveness for mobile
+[33m3e5b5e0[m charts made mobile responsive
+[33m0da8261[m project mopleate and working
+[33m2baa4a6[m shifted images to public folder
+[33mfb61d90[m fixed readme clone
+[33m3b1596d[m updated readme
+[33m1a8d20b[m added readme
+[33me8b39ba[m made homepage a bit mobile responsive
+[33mea3570d[m fixed cuurent location to all pages
+[33m63f9109[m added images to connect
+[33md38fe25[m added images to crop data
+[33mc92d93a[m water conservation added
+[33mba3a884[m added gallery
+[33m0b78174[m connect page and about page created
+[33m87791f5[m added crops data and contact us page
+[33m47c9396[m soil moisture charts added
+[33mb682313[m added crop suggestions
+[33m9fcd385[m disaster alerts added and working
+[33m12d5a72[m irrigation page bar setted
+[33m1d0272c[m irrigation page working
+[33m103f284[m ai chatbot working
+[33me69732c[m more icons added
+[33m86aacb2[m other type charts added
+[33md8ac6a1[m added line chart
+[33m8683ebf[m added first major icons and fixed navbar
+[33m2405cd1[m fixed size of weather card
+[33md996812[m weather card working fine
+[33mb205946[m router set up and error page handeled
+[33m9fe5e34[m started the project
