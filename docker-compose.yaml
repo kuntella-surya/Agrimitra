@@ -1,0 +1,21 @@
+version: "3.9"
+
+services:
+
+  python-backend:
+    build: ./backend
+    container_name: python-backend
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./backend:/app
+
+  node-backend:
+    build: ./node_server
+    container_name: node-backend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./node_server:/app
+    depends_on:
+      - python-backend
